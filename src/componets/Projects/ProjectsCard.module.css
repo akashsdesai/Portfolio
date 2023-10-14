@@ -1,0 +1,73 @@
+@import '../../vars.css';
+
+.container{
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  background: linear-gradient(180deg, #a3abca 0%, #8db0eb 100%) ;
+  box-shadow: 5px 10px 15px rgb(0, 0, 0);
+  padding: 18px 24px;
+  max-width: 345px;
+  margin: 25px 10px;
+  color: black;
+}
+
+.image{
+  margin-bottom: 26px;
+  border-radius: 15px;
+}
+
+.title{
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.description{
+  margin-top: 6px;
+  font-size: 25px;
+  font-weight: 400;
+  min-height: 300px;
+}
+
+.skills{
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap:6px;
+  list-style: none;
+  min-height: 78px;
+}
+
+.skill{
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 5px 22px;
+  max-height: 35px;
+  box-shadow: inset 2px 5px 7px rgba(0,0,0,0.6);
+  text-transform: uppercase;
+  margin: 5px;
+  color: white;
+}
+
+.links{
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+}
+
+.link{
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 5px 22px;
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 1);
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Random Meme Generator",
+    "imageSrc": "projects/project.png",
+    "description": "Crafted a React.js app enabling spontaneous meme creation by integrating an API for random image retrieval.",
+    "skills": ["React", "Javascript", "CSS"],
+    "demo": "https://akashsdesai.github.io/Meme-generator/",
+    "source": "https://github.com/akashsdesai/Random-meme-generator"
+  },
+  {
+    "title": "AirBnB Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a responsive Airbnb clone using React, HTML, and CSS. This project showcases my skills in front-end development",
+    "skills": ["React", "Javascript", "CSS"],
+    "demo": "https://akashsdesai.github.io/AirBnB-Clone-React/",
+    "source": "https://github.com/akashsdesai/AirBnB-React"
+  },
+  {
+    "title": "Whac A Mole",
+    "imageSrc": "projects/project.png",
+    "description": "Developed an interactive Whac-A-Mole, Demonstrated front-end design and interactivity skills in web-based gaming.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://akashsdesai.github.io/Mole-Game/",
+    "source": "https://github.com/akashsdesai/Mole-Game"
+  },
+  {
+    "title": "Chrome Extension",
+    "imageSrc": "projects/project.png",
+    "description": "Created a custom Chrome extension that enhances browsing by saving copied URLs to local storage.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://akashsdesai.github.io/Chrome-Extension/",
+    "source": "https://github.com/akashsdesai/Chrome-Extension"
+  },
+  {
+    "title": "BlackJack Game",
+    "imageSrc": "projects/project.png",
+    "description": "I designed and developed a fully functional Blackjack game,This project demonstrates my passion for web development and my ability to create engaging user interfaces and dynamic experiences.",
+    "skills": ["Javascript", "HTML", "CSS"],
+    "demo": "https://akashsdesai.github.io/BlackJack-Game/",
+    "source": "https://github.com/akashsdesai/BlackJack-Game"
+  },
+  {
+    "title": "YouTube Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Created a YouTube clone using only HTML and CSS to challenge myself in building interactive websites without JavaScript. Demonstrating creative skills in web development.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://akashsdesai.github.io/YouTube-clone-project/youtube.html",
+    "source": "https://github.com/akashsdesai/YouTube-clone-project"
+  }
+]
